@@ -1,0 +1,19 @@
+{
+  "name": "docuflow",
+  "version": "1.0.0",
+  "description": "An API service which extracts information from PDF files in the form of JSON",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MidhunManu/DocuFlow.git"
+  },
+  "author": "MidhunManu",
+  "license": "GPL-3.0-only",
+  "bugs": {
+    "url": "https://github.com/MidhunManu/DocuFlow/issues"
+  },
+  "homepage": "https://github.com/MidhunManu/DocuFlow#readme"
+}
